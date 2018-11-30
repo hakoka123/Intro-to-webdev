@@ -7,6 +7,14 @@
 # Git Repository
 * Where all our snapshots are stored
 
+# Add files of certain type
+* Adding multiple files of a certain type
+    * git add *.html
+* Adding all files in directory(including hidden)
+    * ls -a >> To show all files including hidden ones
+    * git add -A >> Adds everything in your project at one time...
+* Removing files
+* Ignoring files
 
 
 

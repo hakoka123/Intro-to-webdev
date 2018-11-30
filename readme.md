@@ -29,7 +29,7 @@
 * Changing branches
     * git checkout master >> switches us back to the master branch
 * Merging a branch
-    * 
+    * git merge <branch_name>
 * Removing a branch
 
 

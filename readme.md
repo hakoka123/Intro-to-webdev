@@ -31,7 +31,8 @@
 * Merging a branch
     * git merge <branch_name>
 * Removing a branch
-
+    * Best to not delete branches... Doesn't take alot of space...
+    * git branch -d <branch_name>
 
 
 

@@ -16,6 +16,14 @@
 * Removing files
     * git reset HEAD file2.txt >> Removes file2.txt from staging area...
 * Ignoring files
+    * touch .gitignore >> creates a hidden .gitignore file
+    * git will ignore all files thats listed in .gitignore... >> use git status to check...
+    * add file2.txt to .gitignore
+    * mv fil3.hmtl file3.html >> rename/deletes fil3.html and move it to file3.html
+
+
+
+
 
 
 

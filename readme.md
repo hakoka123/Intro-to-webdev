@@ -14,6 +14,7 @@
     * ls -a >> To show all files including hidden ones
     * git add -A >> Adds everything in your project at one time...
 * Removing files
+    * git reset HEAD file2.txt >> Removes file2.txt from staging area...
 * Ignoring files
 
 

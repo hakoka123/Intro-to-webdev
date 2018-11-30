@@ -21,7 +21,16 @@
     * add file2.txt to .gitignore
     * mv fil3.hmtl file3.html >> rename/deletes fil3.html and move it to file3.html
 
-
+# Git Branches
+* Listing all branches
+    * git branch
+* Adding a branch
+    * git checkout -b feature1 >> Switches us to a new branch, named feature1
+* Changing branches
+    * git checkout master >> switches us back to the master branch
+* Merging a branch
+    * git merge <branch_name>
+* Removing a branch
 
 
 
